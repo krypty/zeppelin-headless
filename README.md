@@ -6,7 +6,7 @@
 git clone <this-repo>
 cd <this-repo>
 ./build.sh
-./start.sh
+./run-zeppelin-docker.sh
 
 # in another terminal, do
 cd <this-repo>
